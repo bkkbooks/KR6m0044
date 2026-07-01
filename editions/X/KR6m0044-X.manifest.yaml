@@ -1,0 +1,418 @@
+canonical_identifier: bkk:krp/KR6m0044/X/v1
+canonical_location: https://kanripo.org/bkk/KR6m0044/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 注肇論疏
+  identifiers:
+    krp: KR6m0044
+    cbeta: X54n0870
+    cbeta_old_id: X54n0870
+    authorityid: CA0004040
+    json_key: X0870
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X54/X54n0870.xml
+    old_id: X54n0870
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6m0044_000-X.yaml, hash: 'sha256:18cf660c1791872c55d0240cf3f3ae258bf56606ad53e1bda9b0adcfaa7311aa'}
+  - {seq: 1, filename: KR6m0044_001-X.yaml, hash: 'sha256:33f0781d8bbcc704db9ca299533ccf619b08bd60783420e88430ae70493f532f'}
+  - {seq: 2, filename: KR6m0044_002-X.yaml, hash: 'sha256:1a0999f8cfb8c5e2530c953f7f8f0a17039d971f70c3ee329cd0a8cc8072ba63'}
+  - {seq: 3, filename: KR6m0044_003-X.yaml, hash: 'sha256:c7acccd9a7dd2049b87501471c51a14ab0ccb89410352933183bea2b272167d4'}
+  - {seq: 4, filename: KR6m0044_004-X.yaml, hash: 'sha256:50057554dc0c8ee993ef570796b0b5deee170195d1ee110f7f91010a2820ec70'}
+  - {seq: 5, filename: KR6m0044_005-X.yaml, hash: 'sha256:369823e0cca539d07e465018caf0cdc834e7aaa801fd38c393d1d55d0097903c'}
+  - {seq: 6, filename: KR6m0044_006-X.yaml, hash: 'sha256:64c316ede458ea2efeaa3c16de25ac1cb7c23317978693f26d73f141a189f126'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6m0044_000-X.markers.yaml, hash: 'sha256:e553bbc3b3db599650170d4546ae48f5ce942bcf3df443ab7e62eecdea90b37e'}
+  - {seq: 1, role: markers, filename: assets/KR6m0044_001-X.markers.yaml, hash: 'sha256:d501b6e2aac6ea42d9580e6f77317ff470bc3e459d8c2e53abdb5a533a4cc700'}
+  - {seq: 2, role: markers, filename: assets/KR6m0044_002-X.markers.yaml, hash: 'sha256:85dab4f6cd15b193fe8b684fe45e8786e3b753e7ad19329300f1dc693ab8898a'}
+  - {seq: 3, role: markers, filename: assets/KR6m0044_003-X.markers.yaml, hash: 'sha256:90dfa6165948e48a9d6905fb34e734f7ae6206f57cfe408e89eecece6e54b78e'}
+  - {seq: 4, role: markers, filename: assets/KR6m0044_004-X.markers.yaml, hash: 'sha256:0fe092ac6a3bc1247c304a8ce05b3be526571ea57b8a9ebfa504512ffff5603f'}
+  - {seq: 5, role: markers, filename: assets/KR6m0044_005-X.markers.yaml, hash: 'sha256:deb6cadfe7c9c0e99c612c94cb6bcda1006851553c8e7a5148e090356f0a6885'}
+  - {seq: 6, role: markers, filename: assets/KR6m0044_006-X.markers.yaml, hash: 'sha256:9b5a1063338016bd5797611f34b198945574b769f669fb97efa49fe8709ad852'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6m0044_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 注肇論疏目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0044_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 9477
+  label: 注肇論疏卷第一并序
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0044_X_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 疏序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0044_X_001-mulu-2
+    span:
+    - body
+    - 662
+    - 662
+  label: 懸談
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0044_X_001-mulu-3
+    span:
+    - body
+    - 2304
+    - 2304
+  label: 宗本義
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6m0044_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 18437
+  label: 注肇論疏卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6m0044_X_002-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 物不遷論第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6m0044_X_002-mulu-2
+    span:
+    - body
+    - 9160
+    - 9160
+  label: 不真空論第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6m0044_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 14031
+  label: 注肇論疏卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6m0044_X_003-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 般若無知論第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6m0044_X_003-mulu-2
+    span:
+    - body
+    - 11
+    - 11
+  label: 般若無知論
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6m0044_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 15213
+  label: 注肇論疏卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6m0044_X_004-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 劉公致問
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6m0044_X_004-mulu-2
+    span:
+    - body
+    - 3742
+    - 3742
+  label: 法師釋答
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6m0044_X_004-mulu-3
+    span:
+    - body
+    - 12372
+    - 12372
+  label: 上涅槃論表
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6m0044_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 13540
+  label: 注肇論疏卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6m0044_X_005-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 涅槃無名論第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6m0044_X_005-mulu-2
+    span:
+    - body
+    - 577
+    - 577
+  label: 九折十演
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6m0044_X_005-mulu-3
+    span:
+    - body
+    - 653
+    - 653
+  label: 開宗第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6m0044_X_005-mulu-4
+    span:
+    - body
+    - 3803
+    - 3803
+  label: 覈體第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6m0044_X_005-mulu-5
+    span:
+    - body
+    - 6824
+    - 6824
+  label: 位體第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6m0044_X_005-mulu-6
+    span:
+    - body
+    - 11237
+    - 11237
+  label: 徵出第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6m0044_X_005-mulu-7
+    span:
+    - body
+    - 12156
+    - 12156
+  label: 超境第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6m0044_X_005-mulu-8
+    span:
+    - body
+    - 13188
+    - 13188
+  label: 搜玄第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0044_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 15514
+  label: 注肇論疏卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0044_X_006-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 妙存第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0044_X_006-mulu-2
+    span:
+    - body
+    - 1880
+    - 1880
+  label: 難差第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0044_X_006-mulu-3
+    span:
+    - body
+    - 2670
+    - 2670
+  label: 辨差第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0044_X_006-mulu-4
+    span:
+    - body
+    - 4608
+    - 4608
+  label: 責異第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0044_X_006-mulu-5
+    span:
+    - body
+    - 5104
+    - 5104
+  label: 會異第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0044_X_006-mulu-6
+    span:
+    - body
+    - 6025
+    - 6025
+  label: 詰漸第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0044_X_006-mulu-7
+    span:
+    - body
+    - 6816
+    - 6816
+  label: 明漸第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0044_X_006-mulu-8
+    span:
+    - body
+    - 8283
+    - 8283
+  label: 譏動第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0044_X_006-mulu-9
+    span:
+    - body
+    - 8809
+    - 8809
+  label: 動寂第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0044_X_006-mulu-10
+    span:
+    - body
+    - 10832
+    - 10832
+  label: 窮源第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0044_X_006-mulu-11
+    span:
+    - body
+    - 11157
+    - 11157
+  label: 通古第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0044_X_006-mulu-12
+    span:
+    - body
+    - 12495
+    - 12495
+  label: 攷得第十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6m0044_X_006-mulu-13
+    span:
+    - body
+    - 12912
+    - 12912
+  label: 玄得第十九
+  type: mulu
+  level: 1
+hash: sha256:1174f7064b7197ec3c7cb4030f977642cb1acd61deb49d4e9e29a0431e4b878c
