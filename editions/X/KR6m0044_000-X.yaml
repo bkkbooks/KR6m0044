@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6m0044/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 注肇論疏目錄論序慧達述曉月注卷第一疏序懸談宗本義卷第二物不遷論第一不真空論第二卷第三般若無知論第三卷第四劉公致問法師釋答上涅槃論表卷第五涅槃無名論第四九折十演者開宗第一覆體第二位體第三徵出第四超境第五搜玄第六卷第六玅存第七難荖第八辨荖第九責異第十會異第十一詰漸第十二明漸第十三譏動第十四動寂第十五窮源第十六通古第十七攷得第十八玄得第十九注肇論疏目錄終
   hash: sha256:e77821b72c4139fec6670be6fb29a2cb1526972f9fe788d4472e9349ec040d8c
   markers:
   - {type: 其他, offset: 0, content: 注肇論疏目錄, id: KR6m0044_X_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 注肇論疏
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X54/X54n0870.xml
     old_id: X54n0870
-hash: sha256:18cf660c1791872c55d0240cf3f3ae258bf56606ad53e1bda9b0adcfaa7311aa
+hash: sha256:0977d5791fa49227972d140abcbdb6cfc515c3877e55c10361f1ff335cf35e14
